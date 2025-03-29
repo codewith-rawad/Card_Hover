@@ -21,7 +21,7 @@ This project implements a stunning hover effect for cards using HTML, CSS, and J
    ```
 2. Navigate to the project directory:
    ```sh
-   cd hover-card-project
+   cd Card_Hover
    ```
 3. Open `index.html` in a browser to view the hover effect.
 
